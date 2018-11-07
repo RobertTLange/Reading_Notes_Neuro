@@ -13,6 +13,13 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 ## Cognitive Neuroscience
 
+**2018-11**
+
+* [ ] Hubel and Wiesel - 
+* [ ] Itti and Koch (2001) - Computational Modeling of Visual Attention
+* [x] Quiroga et al (2005) - Invariant Visual Representation by Single Neurons in the Human Brain
+
+
 **2018-10**
 
 * [x] Yarkoni et al (2010) - Cognitive neuroscience 2.0:
