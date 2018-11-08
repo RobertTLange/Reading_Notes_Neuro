@@ -1,10 +1,48 @@
 # Title: Uncertainty in perception and the Hierarchical Gaussian Filter
 # Authors: Mathys et al (2014)
 
-### Main Takeaway: Extension of basic Gaussian RW model where hidden states evolve as coupled GRWs - Each state determines step size of the evolution of the next lower state (coupling via variances). Derive update equations for sequential Bayesian learner and show how to integrate perceptual model with decision model.
+### Main Takeaway: Extension of basic Gaussian RW model where hidden states evolve as coupled GRWs - Each state determines step size of the evolution of the next lower state (coupling via variances). Allows for modelling of volatility of volatility. Derive update equations for sequential Bayesian learner and show how to integrate perceptual model with decision model.
 
 # General Notes:
 
+* Mathys et al (2011) - approx variational inversion assuming gaussian posteriors at all levels (3 levels)
+
+* Interpretation of updating equation with info and environmental uncertainty
+    * VALE - value prediction errors on 1st level = Mean
+    * VOPE - volatility prediction errors on higher levels = Variance
+    * Info - expected - posterior variance
+    * Env - unexpected - phasic/tonic volatility
+
+* Damizeau et al (2010) - "Obersving the observer" framework
+    * Perception: agents perception of env - posterior estimates
+    * Decision: agents obersved actions - consequences of beliefs
+    * Meta-Bayesian: Bayesian inference (observer) on bayesian inference (agent)
+
+* Decision model: Combine filtering model with loss function
+    * Ingredients:
+        1. Generative model of sensory inputs
+        2. Method for model inversion
+        3. Loss fct for actions depending on inferred states
+        4. Decision model
+    * Subject-specific hyperparam fitting for unit-square sigmoid $\xi$ - the higher, the more likely the agent is to choose option that is more likely according to current belief
+    * Decision model uses perceptual model indirectly via model inversion
+
+* Trick for ensuring non-negativity: work in log space!
+
+* Gaussian output resembles form of sensory noise/uncertainty
+
+* Easy incorporation of non-Gaussian output - change in updating equations: Binary - only change at second level due to sigmoid trafo linking 1st and 2nd level - filtering of binary outcomes
+
+* Comparison of different model inversion techniques:
+    * local: Nelder-Mead simplex algo, Variational Bayes
+    * global: GP-based global optimization, MCMC
+    * noise-level dependent performance
+
+* GHF solves problem of low learning rate - form of optimal forgetting
+
+* Kalman (only tonic!) - LDS while GHF can deal with non-linearity
+
 # Questions:
 * Derivation is not clear! Use results from Mathys et al (2011) a lot. Very minor contribution.
-* Danger of defining a model and everyone blindly using it.
+* Danger of defining a model and everyone blindly using it without real benefits.
+* Independent prior factorization - does this make sense?
