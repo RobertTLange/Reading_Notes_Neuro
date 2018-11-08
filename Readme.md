@@ -8,15 +8,15 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 **Notes:**
 
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
-2. Most papers focus on Deep RL and Hierarchical RL (due to thesis and general interest).
-
+2. Most notes focus on the neuroscience. Notes on Machine Learning and method papers are kept in a separate repository.
 
 ## Cognitive Neuroscience
 
 **2018-11**
 
-* [ ] Hubel and Wiesel - 
-* [ ] Itti and Koch (2001) - Computational Modeling of Visual Attention
+* [ ] Mathys et al (2014) - Uncertainty in perception and the Hierarchical Gaussian Filter
+* [ ] Hubel and Wiesel (1969) - Visual perception in striate cortex
+* [x] Itti and Koch (2001) - Computational Modeling of Visual Attention
 * [x] Quiroga et al (2005) - Invariant Visual Representation by Single Neurons in the Human Brain
 
 

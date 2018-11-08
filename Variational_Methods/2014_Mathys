@@ -1,0 +1,10 @@
+# Title: Uncertainty in perception and the Hierarchical Gaussian Filter
+# Authors: Mathys et al (2014)
+
+### Main Takeaway: Extension of basic Gaussian RW model where hidden states evolve as coupled GRWs - Each state determines step size of the evolution of the next lower state (coupling via variances). Derive update equations for sequential Bayesian learner and show how to integrate perceptual model with decision model.
+
+# General Notes:
+
+# Questions:
+* Derivation is not clear! Use results from Mathys et al (2011) a lot. Very minor contribution.
+* Danger of defining a model and everyone blindly using it.
