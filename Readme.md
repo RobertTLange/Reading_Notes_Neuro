@@ -14,6 +14,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2018-11**
 
+* [ ] Kriegeskorte et al (2009) - Circular analysis in systems neuroscience: the dangers of double dipping 
 * [x] Mathys et al (2014) - Uncertainty in perception and the Hierarchical Gaussian Filter
 * [ ] Hubel and Wiesel (1969) - Visual perception in striate cortex
 * [x] Itti and Koch (2001) - Computational Modeling of Visual Attention
