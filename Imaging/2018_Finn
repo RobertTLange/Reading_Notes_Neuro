@@ -1,0 +1,56 @@
+# Title: Layer-dependent activity in human prefrontal cortex during working memory
+# Authors: Finn et al (2018)
+
+### Main Takeaway: Simultaneously acquire BOLD and VASO signal to image layer-dependent (superficial/deep) activity in dorsolateral PFC during working memory task (delay, response) task. Find evidence for delay/manipulation activity in superficial layers and response activity in deeper layers.
+
+# General Notes:
+
+* General literature:
+    * delay period activity - driven by recurrently connected networks of pyramidal cells in LIII
+    * response-related activity - predominantly in LV
+
+* Previously invasive study with macaques. Here non-invasive with humans using higher fMRI field strength (7Tesla) with special pulse sequences and contrast mechanisms
+    * Already imaged depth-dependent activity in visual, auditory and motor cortices
+
+* Simultaneous acquisition BOLD and cerebral blood volume (CBV) of dlPFC during working memory - done using SS-SI-vascular space occupancy (VASO) method with 3D-EPI readout on 7T
+    * Conventional BOLD - poor spatial specificity at high resolution - tends to be dominated by large veins at pial surface - superficial bias!
+    * VASO has lower contrast-to-noise ratio - more quantitative measurement - less biased towards superficial depths
+    * BOLD more sensitive (large vessels) - VASO more specific = joint interpretation!
+    * Vessel frames contaminated by BOLD - record Simultaneously
+
+* Verbal working memory paradigm (2x2x2 design)
+    1. Trial type: manipulation/maintenance vs action/non-action
+    2. Period: delay vs response
+    3. Cortical depth: superficial vs deep
+
+* 2 Different Acquisition protocols - axial readout and sagittal readout protocol
+
+* ROIs selected for each participant using online functional localizer - high overlap. Two layers - superficial/deep at boundary between III and IV.
+
+* Delay-related activity
+    * superficial layers uniformly active during manipulation trials
+    * dlPFC is not strictly necessary when task calls for maintenance only
+    * Deeper layers less active during delay
+
+* Response-related activity
+    * deeper layers strong activity - but only when action is required (ca 6 seconds after cue comes on screen)
+
+* Underlying neural circuitry:
+    * recurrent excitatory connections: superficial activity during delay period
+    * response-period activity in deeper layers reflects functions related to motor control (motor action initiation or guiding of movement)
+
+* Schizzophrenia - altered genetics, morphology, function of dlPFC circuitry
+
+# Questions:
+    * Learn more about BOLD vs VASO differences
+    * Split 11 into 6 (used for stat analysis) and 5 (only used for viz) - why?
+    * Stats - fixed effects analysis - averaged across people and trials
+        * Is effect really present in every people
+    * BOLD vs VASO - layer-dep vs signal-to-noise ratio
+        * Most publications on layer-dep VASO from Huber
+        * Manual Segmentation by same people who test hypo
+    * More participants better stats - time pressure
+
+
+# Notes Sam
+    * Layer vs depth dependent fMRI
