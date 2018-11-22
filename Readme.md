@@ -1,7 +1,7 @@
 # Neuroscience Reading Notes
 # Author: Robert T. Lange
 
-This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) during my Neuroscience PhD in Berlin.
+This repository contains simple reading notes, thoughts, questions and summaries of the papers/book chapters, which I ([Robert T. Lange](www.rob-lange.com)) during my Neuroscience time in Berlin.
 
 The documents are grouped by overarching topic. First of all I hope that this way I am able to structure my knowledge gains and have a quick read to remind myself of keypoints. Second, I hope that you are able to follow my current interests and research progress.
 
