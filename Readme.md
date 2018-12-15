@@ -12,9 +12,15 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 ## Cognitive Neuroscience
 
+**2018-12**
+
+* [x] Gallego et al (2018) - Cortical population activity within a preserved neural manifold underlies multiple motor behaviors
+* [ ] Georgopoulos et al (1986) - Neuronal Population Coding of Movement Direction
+* [ ] Polyn et al (2005) - Category-Specific Cortical Activity Precedes Retrieval During Memory Search
+
 **2018-11**
 
-* [ ] Keller and Mrsic-Flogel (2018) - Predictive Processing: A canonical cortical computation
+* [x] Keller and Mrsic-Flogel (2018) - Predictive Processing: A canonical cortical computation
 * [x] Finn et al (2018) - Layer-dependent activity in human prefrontal cortex during working memory
 * [x] Kriegeskorte et al (2009) - Circular analysis in systems neuroscience: the dangers of double dipping
 * [x] Mathys et al (2014) - Uncertainty in perception and the Hierarchical Gaussian Filter
