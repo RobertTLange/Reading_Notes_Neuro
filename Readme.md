@@ -16,7 +16,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 * [x] Gallego et al (2018) - Cortical population activity within a preserved neural manifold underlies multiple motor behaviors
 * [x] Georgopoulos et al (1986) - Neuronal Population Coding of Movement Direction
-* [ ] Polyn et al (2005) - Category-Specific Cortical Activity Precedes Retrieval During Memory Search
+* [x] Polyn et al (2005) - Category-Specific Cortical Activity Precedes Retrieval During Memory Search
 
 **2018-11**
 
