@@ -10,10 +10,17 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most notes focus on the neuroscience. Notes on Machine Learning and method papers are kept in a separate repository.
 
+## Credit Assignment in the Brain
+
+**2019-02**
+
+* [ ] Richards & Lillicrap (2019) - Dendritic Solutions to the Credit Assignment Problem
+
 ## Cognitive Neuroscience
 
 **2018-12**
 
+* [ ] Botvinick et al (2004) - Conflict monitoring and anterior cingulate cortex: an update
 * [x] Gallego et al (2018) - Cortical population activity within a preserved neural manifold underlies multiple motor behaviors
 * [x] Georgopoulos et al (1986) - Neuronal Population Coding of Movement Direction
 * [x] Polyn et al (2005) - Category-Specific Cortical Activity Precedes Retrieval During Memory Search
