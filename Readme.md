@@ -12,9 +12,13 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 ## Credit Assignment in the Brain
 
+**2019-03**
+
+* [x] [Lillicrap & Santoro (2019) - Backpropagation through time and the brain](Credit_Assignment/2019_Lilicrap.md)
+
 **2019-02**
 
-* [ ] Richards & Lillicrap (2019) - Dendritic Solutions to the Credit Assignment Problem
+* [x] Richards & Lillicrap (2019) - Dendritic Solutions to the Credit Assignment Problem
 
 ## Cognitive Neuroscience
 
