@@ -10,6 +10,13 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most notes focus on the neuroscience. Notes on Machine Learning and method papers are kept in a separate repository.
 
+## Representational Similarity Analysis
+
+**2019-03**
+
+* [x] [Cadieu et al (2014) - Deep NNs rival the representation of Primate IT Cortex for Core Visual Object Recognition](Representational_Similarity_Analysis/2014_Cadieu.md)
+
+
 ## Credit Assignment in the Brain
 
 **2019-03**
