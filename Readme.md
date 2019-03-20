@@ -14,6 +14,7 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 
 **2019-03**
 
+* [x] [Cichy et al (2016) - Comparison of DNNs to spatio-temporal cortical dynamics of human visual object recognition reveals hierarchical correspondence](Representational_Similarity_Analysis/2016_Cichy.md)
 * [x] [Cadieu et al (2014) - Deep NNs rival the representation of Primate IT Cortex for Core Visual Object Recognition](Representational_Similarity_Analysis/2014_Cadieu.md)
 
 
