@@ -10,7 +10,15 @@ The documents are grouped by overarching topic. First of all I hope that this wa
 1. If there is a tick in the box, there exists a summary markdown file in the subdirectory. Otherwise, I have only read the document. Furthermore, I list below the chapters of books, while the markdown file contains the summary for the full (or the parts that I have worked in) book.
 2. Most notes focus on the neuroscience. Notes on Machine Learning and method papers are kept in a separate repository.
 
+* Oby et al. (2019) -  New neural activity patterns emerge with long-term learning [Paper](https://www.pnas.org/content/116/30/15210) [Click](Learning/2019_Oby.md)
+
 ## Representational Similarity Analysis
+
+**2019-06**
+
+* [ ] Bashivan et al (2019) - Neural population control via deep image synthesis
+* [ ] Ponce et al (2019) - Evolving Images for Visual Neurons using a Deep Generative Network Reveals Coding Principles and Neuronal Preferences
+
 
 **2019-03**
 
